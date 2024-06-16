@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Exploring the Boundless World of Code.</h1>
 <h3 align="center">"Aspiring computer science engineer crafting a beautiful world of code and innovation."</h3>
 
